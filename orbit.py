@@ -1,4 +1,4 @@
-class InternalOrbit:
+class Orbit:
     def __init__(self,name,distance,no_of_craters):
         self._name=name
         self._distance=distance
